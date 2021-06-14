@@ -1,0 +1,485 @@
+{
+    "places" : [
+        {
+            "id" : 1,
+            "cityName" : "Hyderabad"
+        },
+        {
+            "id" : 2,
+            "cityName" : "Chennai"
+        },
+        {
+            "id" : 3,
+            "cityName" : "Mumbai"
+        },
+        {
+            "id" : 4,
+            "cityName" : "Goa"
+        },
+        {
+            "id" : 5,
+            "cityName" : "Coorg"
+        }
+    ],
+    "placeDetails" :[
+        {
+            "id" : 1,
+            "city" : "Hyderabad",
+            "foodPlaces" : [{
+                "id" : "1-1",
+                "title" : "Bawarchi",
+                "LowPrice" : 300,
+                "HighPrice" : 600,
+                "imageUrl" : "Bawarchi.jpg",
+                "description" : ["Popular Dishes",
+                    "Tender Lamb, Bawarchi Biryani, Mutton Dum, Fry Prawns, Authentic Hyderabadi Biryani, Jumbo Pack",
+                    "People Say This Place Is Known For",
+                    "Fast Delivered, Best Delivery, Super Fast Service, Very Good Service, Food was Good, Best Hotel"]
+            },
+            {
+                "id" : "1-2",
+                "title" : "Chutneys",
+                "LowPrice" : 200,
+                "HighPrice" : 300,
+                "imageUrl" : "Chutneys.jpg",
+                "description" : ["Popular Dishes",
+                    "Guntur Idli, Filtered Coffee, Continental Breakfast, Chutneys, Sambhar, Palak Paneer",
+                    "People Say This Place Is Known For",
+                    "Favorite Place, Comfortable Seating Area, Breakfast, Best Places, Quick Service, Perfect Place"]
+            },
+            {
+                "id" : "1-3",
+                "title" : "Bikanerwala",
+                "LowPrice" : 100,
+                "HighPrice" : 250,
+                "imageUrl" : "Bikanerwala.png",
+                "description" : ["Popular Dishes",
+                    "Chamcham, Raj Kachori, Jalebi, Pav Bhaji, Sweets, Lassi",
+                    "People Say This Place Is Known For",
+                "Hygiene, Family Crowd, Great Place, Nice Place, Good Place, Ambience"]
+            },
+            {
+                "id" : "1-4",
+                "title" : "Cafe Bahar",
+                "LowPrice" : 100,
+                "HighPrice" : 400,
+                "imageUrl" : "Cafe Bahar.png",
+                "description" : ["Popular Dishes",
+                    "Brain Fry, Keema Masala, Afghan Chicken, Onion Samosa, Bheja Fry, Authentic Hyderabadi Biryani",
+                    "People Say This Place Is Known For",
+                "Serving Size, Gastronomical Experience, Ample Seating Area, Favorite Place, Best Places, Authentic Taste"]
+            },
+            {
+                "id" : "1-5",
+                "title" : "Deccan",
+                "LowPrice" : 300,
+                "HighPrice" : 500,
+                "imageUrl" : "Deccan.png",
+                "description" : ["Popular Dishes",
+                    "Ameer Khuwani Biryani,Dakhni Chowgra,Nizami Handi",
+                    "People Say This Place Is Known For",
+                "Ample Seating Area, Favorite Place, Best Places, Authentic Taste"]
+            },
+            {
+                "id" : "1-6",
+                "title" : "Ottimo Cucina Italiana",
+                "LowPrice" : 200,
+                "HighPrice" : 400,
+                "imageUrl" : "Ottimo Cucina Italiana.jpg",
+                "description" : ["Popular Dishes",
+                    "Italian cuisine",
+                    "People Say This Place Is Known For",
+                "Gastronomical Experience, View, Chef, Menu, Ambience, Service"]
+            },
+            {
+                "id" : "1-7",
+                "title" : "Altitude-Lounge & Bar",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Altitude-Lounge & Bar.png",
+                "description" : ["Popular Dishes",
+                    "North,IndianSouth and IndianFast Food",
+                    "People Say This Place Is Known For",
+                "View, Music, Nice Place, Staff, Good Place, Ambiance"]
+            },
+            {
+                "id" : "1-8",
+                "title" : "Daily Treats",
+                "LowPrice" : 400,
+                "HighPrice" : 800,
+                "imageUrl" : "Daily Treats.jpg",
+                "description" : ["Popular Dishes",
+                "Desserts",
+                "People Say This Place Is Known For",
+            "Relaxed ambiance serving wide range of desserts"]
+            }]
+        },
+        {
+            "id" : 2,
+            "city" : "Chennai",
+            "foodPlaces" : [{
+                "id" : "2-1",
+                "title" : "Benjarong",
+                "LowPrice" : 800,
+                "HighPrice" : 2000,
+                "imageUrl" : "Benjarong.jpg",
+                "description" : ["Popular Dishes",
+                    "Thai cuisine",
+                    "People Say This Place Is Known For",
+                    "Its appetizers and basket noodles"]
+            },
+            {
+                "id" : "2-2",
+                "title" : "Sangeetha veg",
+                "LowPrice" : 300,
+                "HighPrice" : 600,
+                "imageUrl" : "Sangeetha veg.jpg",
+                "description" : ["Popular Dishes",
+                    "Idli , sambar and ghee servings",
+                    "People Say This Place Is Known For",
+                    "Breakfast, Good Taste, Packaging, Good Food, Good Service, Quantity"]
+            },
+            {
+                "id" : "2-3",
+                "title" : "Tuscana Pizzeria",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Tuscana Pizzeria.jpg",
+                "description" : ["Popular Dishes",
+                    "Classic Chocolate Cake, Chicken Croquettes, Pannacotta, Italian Pizza, Pepperoni Pizza, Ravioli",
+                    "People Say This Place Is Known For",
+                "New Menu, Best Places, Chef, Waiter, Awesome Place, Great Food"]
+            },
+            {
+                "id" : "2-4",
+                "title" : "Murugana Idli Shop",
+                "LowPrice" : 250,
+                "HighPrice" : 400,
+                "imageUrl" : "Murugana Idli Shop.jpg",
+                "description" : ["Popular Dishes",
+                    "Ghee Podi Idli, Sweet Pongal, Chutneys, Idli, Coffee",
+                    "People Say This Place Is Known For",
+                "Serving and Taste"]
+            },
+            {
+                "id" : "2-5",
+                "title" : "R&G",
+                "LowPrice" : 500,
+                "HighPrice" : 3000,
+                "imageUrl" : "R&G.png",
+                "description" : ["Popular Dishes",
+                    "Cajun Spicy Potato, Elaneer Payasam, Rasam Rice, Death by Chocolate, Wonderful Dinner, Cocktails",
+                    "People Say This Place Is Known For",
+                "Rooftop Ambience, Worth the Price, Sophisticated, Amazing Hospitality, Nice View, Candle Light Dinner"]
+            },
+            {
+                "id" : "2-6",
+                "title" : "Broken Bridge",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Broken Bridge.jpg",
+                "description" : ["Popular Dishes",
+                    "Nutella Custard, Long Island Tea, Crab Cake, Filtered Coffee, Dessert Counter, Fritters",
+                    "People Say This Place Is Known For",
+                "Couple Friendly, Quiet, Fusion Food, Serving Size, Ambience was Super Cool, New Menu"]
+            },
+            {
+                "id" : "2-7",
+                "title" : "The Flying Elephant",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "The Flying Elephant.jpg",
+                "description" : ["Popular Dishes",
+                    "Salmon, Sushi, Tiramisu, Cocktails, Beer, Salads",
+                    "People Say This Place Is Known For",
+                "Luxury, Dj, Worth the Price, Great Music, Live Music, Beautiful Place"]
+            },
+            {
+                "id" : "2-8",
+                "title" : "Up North",
+                "LowPrice" : 400,
+                "HighPrice" : 800,
+                "imageUrl" : "Up North.jpg",
+                "description" : ["Popular Dishes",
+                    "Date Night, Wine, Pulao, Kulfi, Kebabs, Mocktails",
+                    "People Say This Place Is Known For",
+                "Amazing View, Great View, Nice View, Rooftop Ambience, Good View, Roof Top"]
+            }]
+        },
+        {
+            "id" : 3,
+            "city" : "Mumbai",
+            "foodPlaces" : [{
+                "id" : "3-1",
+                "title" : "Delhi Highway",
+                "LowPrice" : 100,
+                "HighPrice" : 300,
+                "imageUrl" : "Delhi Highway.png",
+                "description" : ["Popular Dishes",
+                    "Pani Puri Shots, Jalebi, Lassi, Veg Thali, Chaat, Sweet Dish",
+                    "People Say This Place Is Known For",
+                "Tasty and Awesome Food, Ambience is very Nice, Service and Quality of Food, More Variety, Amazing Service, Soft Music"]
+            },
+            {
+                "id" : "3-2",
+                "title" : "Tanatan",
+                "LowPrice" : 1000,
+                "HighPrice" : 2500,
+                "imageUrl" : "Tanatan.jpg",
+                "description" : ["Popular Dishes",
+                    "Mutton Pepper Fry, Matka Rabdi, Sunny Side, Appam, Phirni, Paneer Makhani",
+                    "People Say This Place Is Known For",
+                "Live Band Music, Good Food Good Quantity, Amazing Food and Experience, Ambiance and Music, Live Singing, Singer"]
+            },
+            {
+                "id" : "3-3",
+                "title" : "Vedge",
+                "LowPrice" : 200,
+                "HighPrice" : 600,
+                "imageUrl" : "Vedge.jpg",
+                "description" : ["Popular Dishes",
+                    "Paneer Tikka Naan Pizza, Crispy Nacho, Malaysian Laksa Soup, Paani Puri Shots, Betel Leaf, Chocolate Mud Pie",
+                    "People Say This Place Is Known For",
+                "Contemporary Decor, Classy Decor, Perfect Family Restaurant, Elegant Ambience, Yummy Dishes, Serving Style"]
+            },
+            {
+                "id" : "3-4",
+                "title" : "The Bohri Kitchen",
+                "LowPrice" : 200,
+                "HighPrice" : 600,
+                "imageUrl" : "The Bohri Kitchen.jpg",
+                "description" : ["Popular Dishes",
+                    "Caramel Custard, Chicken Biryani, Meat, Starters, Rice",
+                    "People Say This Place Is Known For",
+                "Contactless Delivery, Portion Size, Proper Packaging, Perfect Presentation, Preparation, Flavour"]
+            },
+            {
+                "id" : "3-5",
+                "title" : "Flax",
+                "LowPrice" : 300,
+                "HighPrice" : 500,
+                "imageUrl" : "Flax.png",
+                "description" : ["Popular Dishes",
+                    "Whole Wheat Tortilla, Immunity Booster, Ragi Crackers, Chipotle Bowl, Grilled Chicken Wrap, Beetroot Hummus",
+                    "People Say This Place Is Known For",
+                "Healthy Food Options, Cute Little Place, Economical, Nice Crowd, Pocket Friendly, Fresh Ingredients"]
+            },
+            {
+                "id" : "3-6",
+                "title" : "Candy & Green",
+                "LowPrice" : 300,
+                "HighPrice" : 800,
+                "imageUrl" : "Candy & Green.jpg",
+                "description" : ["Popular Dishes",
+                    "Beetroot Chips, Coconut Pudding, Zucchini Fries, Sundried Tomato Risotto, Dragon Noodles, Avocado Toast",
+                    "People Say This Place Is Known For",
+                "Healthy Food Options, Vegan, Unique Menu, Interesting Menu, Cordial Staff, Pure Veg"]
+            },
+            {
+                "id" : "3-7",
+                "title" : "Tamasha",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Tamasha.jpg",
+                "description" : ["Popular Dishes",
+                    "Melody Brownie, Beijing Chicken, Grilled Fish Fillet, Sundowner, Chocolate Delight, Dahi Kebab",
+                    "People Say This Place Is Known For",
+                "Salsa Night, No Cover Charge, A Black Tie Crowd, Casual Dress Code, Exquisite Ambience, Best Party Place"]
+            },
+            {
+                "id" : "3-8",
+                "title" : "Sammy Sosa",
+                "LowPrice" : 200,
+                "HighPrice" : 600,
+                "imageUrl" : "Sammy Sosa.jpg",
+                "description" : ["Popular Dishes",
+                    "Mexican Fish, Santa Fe Chicken, Chicken Chimichangas, Enchilladas, Mango Salsa, Authentic Mexican Food",
+                    "People Say This Place Is Known For",
+                "Big Portions, Cordial Staff, Courteous Service, Nice Cozy Place, Brilliant Service, Serving Size"]
+            }]
+        },
+        {
+            "id" : 4,
+            "city" : "Goa",
+            "foodPlaces" : [{
+                "id" : "4-1",
+                "title" : "Gunpowder",
+                "LowPrice" : 300,
+                "HighPrice" : 600,
+                "imageUrl" : "Gunpowder.jpg",
+                "description" : ["Popular Dishes",
+                    "Kozhi Fry, Kerala Mutton Curry, Malabar Prawn Curry, Egg Appam, Mutton Pepper Fry, Mango Panna Cotta",
+                    "People Say This Place Is Known For",
+                "Themed Decor, Authenticity, Comfortable Seating Area, Relaxed Atmosphere, Good Options, Lovely Place"]
+            },
+            {
+                "id" : "4-2",
+                "title" : "Vinayak Family Restaurant",
+                "LowPrice" : 200,
+                "HighPrice" : 300,
+                "imageUrl" : "Vinayak Family Restaurant.jpg",
+                "description" : ["Popular Dishes",
+                    "Prawn Masala Fry, Authentic Goan Food, Fish Thali, Fish Curry, Seafood",
+                    "People Say This Place Is Known For",
+                "Casual Seating Area, Pocket Friendly, Worth the Money, Polite Staff, Great Ambiance, Best Places"]
+            },
+            {
+                "id" : "4-3",
+                "title" : "Suzie’s",
+                "LowPrice" : 100,
+                "HighPrice" : 250,
+                "imageUrl" : "Suzie’s.jpg",
+                "description" : ["Popular Dishes",
+                    "Goan Cuisines",
+                    "People Say This Place Is Known For",
+                "Casual Seating Area, Pocket Friendly"]
+            },
+            {
+                "id" : "4-4",
+                "title" : "Pousada By The Beach",
+                "LowPrice" : 100,
+                "HighPrice" : 400,
+                "imageUrl" : "Pousada By The Beach.jpg",
+                "description" : ["Popular Dishes",
+                    "Peri Peri Fish, Peri Peri Prawn, Chai, Prawn Balchao, Serradura, Sangria",
+                    "People Say This Place Is Known For",
+                "Spectacular View, Great Recommendations, Amazing Location, Crew, Calm, Great Host"]
+            },
+            {
+                "id" : "4-5",
+                "title" : "Fisherman’s Wharf",
+                "LowPrice" : 300,
+                "HighPrice" : 500,
+                "imageUrl" : "Fisherman’s Wharf.jpg",
+                "description" : ["Popular Dishes",
+                    "Liit Cocktail, Spaghetti Marinara, Squid Tempura, Pork Spare Ribs, Chorizo Pao, Fried Rice Chicken",
+                    "People Say This Place Is Known For",
+                "Good Food and Good Service, Live Band Performance, Quality of Food, Wonderful Staff, Service is Great, Great Recommendations"]
+            },
+            {
+                "id" : "4-6",
+                "title" : "The Black Sheep Bistro",
+                "LowPrice" : 200,
+                "HighPrice" : 400,
+                "imageUrl" : "The Black Sheep Bistro.jpg",
+                "description" : ["Popular Dishes",
+                    "Malvani Mushroom Stroganoff, Crab Ravioli, Seafood Paella, Mushroom Rice, Veg Quesadilla, Chocolate Salami",
+                    "People Say This Place Is Known For",
+                "Classy Place, Attentive Service, Fusion Food, Staff Behaviour, Comfortable Seating Area, Good Options"]
+            },
+            {
+                "id" : "4-7",
+                "title" : "Olive Bar & Kitchen",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Olive Bar & Kitchen.jpg",
+                "description" : ["Popular Dishes",
+                    "Tomato Risotto, Sangria, Mojito, Cocktail, Pizza, Burger",
+                    "People Say This Place Is Known For",
+                "Menu Description, Spectacular View, Seaview, Best View, Fancy Crowd, Packed on Weekends"]
+            },
+            {
+                "id" : "4-8",
+                "title" : "Thalassa",
+                "LowPrice" : 400,
+                "HighPrice" : 800,
+                "imageUrl" : "Thalassa.jpg",
+                "description" : ["Popular Dishes",
+                    "Greek, Mediterranean, Seafood, Goan",
+                    "People Say This Place Is Known For",
+                "Delicious Taste, Clean and Hygienic Place, Vibe, Fresh Food, Good Quality"]
+            }]
+        },
+        {
+            "id" : 5,
+            "city" : "Coorg",
+            "foodPlaces" : [{
+                "id" : "5-1",
+                "title" : "Silver Sky Restaurant",
+                "LowPrice" : 300,
+                "HighPrice" : 600,
+                "imageUrl" : "Silver Sky Restaurant.jpg",
+                "description" : ["Popular Dishes",
+                    "Liit Cocktail, Spaghetti Marinara, Squid Tempura, Pork Spare Ribs, Chorizo Pao, Fried Rice Chicken",
+                    "People Say This Place Is Known For",
+                "Good Food and Good Service, Live Band Performance, Quality of Food, Wonderful Staff, Service is Great, Great Recommendations"]
+            },
+            {
+                "id" : "5-2",
+                "title" : "Kodagu Fried Chicken",
+                "LowPrice" : 200,
+                "HighPrice" : 300,
+                "imageUrl" : "Kodagu Fried Chicken.jpg",
+                "description" : ["Popular Dishes",
+                    "Salmon, Sushi, Tiramisu, Cocktails, Beer, Salads",
+                    "People Say This Place Is Known For",
+                "Luxury, Dj, Worth the Price, Great Music, Live Music, Beautiful Place"]
+            },
+            {
+                "id" : "5-3",
+                "title" : "Spice Rack",
+                "LowPrice" : 100,
+                "HighPrice" : 250,
+                "imageUrl" : "Spice Rack.jpg",
+                "description" : ["Popular Dishes",
+                    "Tomato Risotto, Sangria, Mojito, Cocktail, Pizza, Burger",
+                    "People Say This Place Is Known For",
+                "Menu Description, Spectacular View, Seaview, Best View, Fancy Crowd, Packed on Weekends"]
+            },
+            {
+                "id" : "5-4",
+                "title" : "Beans Cafe",
+                "LowPrice" : 100,
+                "HighPrice" : 400,
+                "imageUrl" : "Beans Cafe.jpg",
+                "description" : ["Popular Dishes",
+                    "Desserts",
+                    "People Say This Place Is Known For",
+                "Relaxed ambiance serving wide range of desserts"]
+            },
+            {
+                "id" : "5-5",
+                "title" : "Udipi",
+                "LowPrice" : 300,
+                "HighPrice" : 500,
+                "imageUrl" : "Udipi.png",
+                "description" : ["Popular Dishes",
+                    "Prawn Masala Fry, Authentic Goan Food, Fish Thali, Fish Curry, Seafood",
+                    "People Say This Place Is Known For",
+                "Casual Seating Area, Pocket Friendly, Worth the Money, Polite Staff, Great Ambiance, Best Places"]
+            },
+            {
+                "id" : "5-6",
+                "title" : "Coffe Blossoms",
+                "LowPrice" : 200,
+                "HighPrice" : 400,
+                "imageUrl" : "Coffe Blossoms.jpg",
+                "description" : ["Popular Dishes",
+                    "Melody Brownie, Beijing Chicken, Grilled Fish Fillet, Sundowner, Chocolate Delight, Dahi Kebab",
+                    "People Say This Place Is Known For",
+                "Salsa Night, No Cover Charge, A Black Tie Crowd, Casual Dress Code, Exquisite Ambience, Best Party Place"]
+            },
+            {
+                "id" : "5-7",
+                "title" : "Raintree",
+                "LowPrice" : 400,
+                "HighPrice" : 900,
+                "imageUrl" : "Raintree.jpg",
+                "description" : ["Popular Dishes",
+                    "Prawn Masala Fry, Authentic Goan Food, Fish Thali, Fish Curry, Seafood",
+                    "People Say This Place Is Known For",
+                "Casual Seating Area, Pocket Friendly, Worth the Money, Polite Staff, Great Ambiance, Best Places"]
+            },
+            {
+                "id" : "5-8",
+                "title" : "Secret Spices",
+                "LowPrice" : 400,
+                "HighPrice" : 800,
+                "imageUrl" : "Secret Spices.jpg",
+                "description" : ["Popular Dishes",
+                    "North,IndianSouth and IndianFast Food",
+                    "People Say This Place Is Known For",
+                "View, Music, Nice Place, Staff, Good Place, Ambiance"]
+            }]
+        }]
+}
